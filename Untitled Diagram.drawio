@@ -61,19 +61,19 @@
             <mxPoint x="360" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-3" value="confirmBorrowing()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="Z7GBV9GChwNzg0yDUGyS-11">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-3" value="confirmBorrowing()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="-620" as="sourcePoint" />
-            <mxPoint x="280" y="-620" as="targetPoint" />
+            <mxPoint x="360" y="-560" as="sourcePoint" />
+            <mxPoint x="99.5" y="-560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="-620" />
+              <mxPoint x="320" y="-560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OlCSfEDm7rh3FE2Oy75B-5" value="confirm()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="99.5" y="-540" as="sourcePoint" />
-            <mxPoint x="364.5" y="-540" as="targetPoint" />
+            <mxPoint x="99.5" y="-500" as="sourcePoint" />
+            <mxPoint x="364.5" y="-500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OlCSfEDm7rh3FE2Oy75B-6" value="updateBorrowRecord()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9">
