@@ -22,13 +22,13 @@
         <mxCell id="Z7GBV9GChwNzg0yDUGyS-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="-1040" width="20" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="Z7GBV9GChwNzg0yDUGyS-13" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-8" edge="1">
+        <mxCell id="Z7GBV9GChwNzg0yDUGyS-13" value="searchBook()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-8" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="100" y="-950" as="sourcePoint" />
             <mxPoint x="180" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z7GBV9GChwNzg0yDUGyS-15" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9" edge="1">
+        <mxCell id="Z7GBV9GChwNzg0yDUGyS-15" value="checkAvailability()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="370" y="-920" as="sourcePoint" />
             <mxPoint x="450" y="-920" as="targetPoint" />
@@ -48,7 +48,7 @@
             <mxPoint x="440" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-1" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-1" value="returnAvailabilityStatus()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0187" y="-20" relative="1" as="geometry">
             <mxPoint x="654.5" y="-800" as="sourcePoint" />
             <mxPoint x="360" y="-800" as="targetPoint" />
