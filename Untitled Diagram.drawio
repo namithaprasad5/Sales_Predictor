@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="CdmC7ZsFvyGAM0gkluLo">
-    <mxGraphModel dx="1293" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,17 +63,17 @@
         </mxCell>
         <mxCell id="OlCSfEDm7rh3FE2Oy75B-3" value="confirmBorrowing()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640.25" y="-500" as="sourcePoint" />
-            <mxPoint x="379.75" y="-500" as="targetPoint" />
+            <mxPoint x="370.5" y="-380" as="sourcePoint" />
+            <mxPoint x="110" y="-380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600.25" y="-500" />
+              <mxPoint x="330.5" y="-380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OlCSfEDm7rh3FE2Oy75B-5" value="confirm()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="100" y="-450" as="sourcePoint" />
-            <mxPoint x="365" y="-450" as="targetPoint" />
+            <mxPoint x="95" y="-340" as="sourcePoint" />
+            <mxPoint x="360" y="-340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OlCSfEDm7rh3FE2Oy75B-6" value="updateBorrowRecord()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
@@ -102,6 +102,9 @@
             <mxPoint x="377.75" y="-550" as="sourcePoint" />
             <mxPoint x="642.25" y="-550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-16" value="[Else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="-532" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
