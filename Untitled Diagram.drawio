@@ -42,6 +42,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H2y-AHyR08eHuWqfkkaG-4" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="360" y="-720" as="sourcePoint" />
+            <mxPoint x="440" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
