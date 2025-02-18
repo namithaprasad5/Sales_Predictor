@@ -28,40 +28,40 @@
             <mxPoint x="180" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z7GBV9GChwNzg0yDUGyS-15" value="checkAvailability()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9" edge="1">
+        <mxCell id="Z7GBV9GChwNzg0yDUGyS-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;checkAvailability()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="370" y="-920" as="sourcePoint" />
             <mxPoint x="450" y="-920" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z7GBV9GChwNzg0yDUGyS-16" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="Z7GBV9GChwNzg0yDUGyS-16" value="confirmUpdateSuccess()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="-10" relative="1" as="geometry">
             <mxPoint x="654.5" y="-400" as="sourcePoint" />
             <mxPoint x="364.5" y="-400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2y-AHyR08eHuWqfkkaG-4" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9" edge="1">
+        <mxCell id="H2y-AHyR08eHuWqfkkaG-4" value="validateMember()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="360" y="-720" as="sourcePoint" />
             <mxPoint x="440" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-1" value="returnAvailabilityStatus()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;returnAvailabilityStatus()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0187" y="-20" relative="1" as="geometry">
             <mxPoint x="654.5" y="-800" as="sourcePoint" />
             <mxPoint x="360" y="-800" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-2" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="Z7GBV9GChwNzg0yDUGyS-9">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-2" value="returnValidationStatus()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="Z7GBV9GChwNzg0yDUGyS-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="-650" as="sourcePoint" />
             <mxPoint x="360" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-3" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="Z7GBV9GChwNzg0yDUGyS-11">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-3" value="confirmBorrowing()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="Z7GBV9GChwNzg0yDUGyS-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="-620" as="sourcePoint" />
             <mxPoint x="280" y="-620" as="targetPoint" />
@@ -70,13 +70,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-5" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-5" value="confirm()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="99.5" y="-540" as="sourcePoint" />
             <mxPoint x="364.5" y="-540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-6" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-6" value="updateBorrowRecord()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="Z7GBV9GChwNzg0yDUGyS-9">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="360" y="-480" as="sourcePoint" />
             <mxPoint x="440" y="-480" as="targetPoint" />
@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlCSfEDm7rh3FE2Oy75B-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="Z7GBV9GChwNzg0yDUGyS-8" target="Z7GBV9GChwNzg0yDUGyS-11">
+        <mxCell id="OlCSfEDm7rh3FE2Oy75B-7" value="displaySuccess()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="Z7GBV9GChwNzg0yDUGyS-8" target="Z7GBV9GChwNzg0yDUGyS-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="-320" as="sourcePoint" />
             <mxPoint x="120" y="-320" as="targetPoint" />
